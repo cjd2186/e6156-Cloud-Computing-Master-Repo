@@ -15,8 +15,8 @@ Folders in Repo:
 
 * Microservice 1 on EC2: 'EC2_NFLsearching-master' (search NFL player database)
 * Microservice 2 on GCP App Engine: 'Team-Management-main' (search NFL coaching/adminstration database)
--Microservice 3 with Docker on EC2: 'EC2_Docker_microservice_post-master' (interact with NFL fan forum)
--S3 Frontend: 'S3_NFLApplicationReact-main' (web interface for project)
--Aggregator Service on EC2: 'Composite_NFL_CompositiveSvc-master' (uses public api to retrieve player news updates)
--Pub/Sub with AWS Lambda function: 'PubSub_Pub-Sub-main' (sends notification on discord server when player added to database)
--Infrastructure as a service: 'IaaS_terraform-main' (automates deployment of microservices)
+* Microservice 3 with Docker on EC2: 'EC2_Docker_microservice_post-master' (interact with NFL fan forum)
+* S3 Frontend: 'S3_NFLApplicationReact-main' (web interface for project)
+* Aggregator Service on EC2: 'Composite_NFL_CompositiveSvc-master' (uses public api to retrieve player news updates)
+* Pub/Sub with AWS Lambda function: 'PubSub_Pub-Sub-main' (sends notification on discord server when player added to database)
+* Infrastructure as a service: 'IaaS_terraform-main' (automates deployment of microservices)
