@@ -15,15 +15,23 @@ Folders in Repo:
 
 * Microservice 1 on EC2: 'EC2_NFLsearching-master'
     * (search NFL player database)
+    * https://github.com/ICAcap/NFLsearching.git
 * Microservice 2 on GCP App Engine: 'Team-Management-main'
     * (search NFL coaching/adminstration database)
+    * https://github.com/darieloespinal/Team-Management 
 * Microservice 3 with Docker on EC2: 'EC2_Docker_microservice_post-master'
     * (interact with NFL fan forum)
+    * https://github.com/harry881218/microservice_post/tree/master
 * S3 Frontend: 'S3_NFLApplicationReact-main'
     * (web interface for project)
+    * node_modules folder was omitted due to large size, for the full 'node_modules' folder visit following repo:
+    * https://github.com/linhtbui/NFLApplicationReact
 * Aggregator Service on EC2: 'Composite_NFL_CompositiveSvc-master'
     * (uses public api to retrieve player news updates)
+    * https://github.com/Beza4598/NFLCompositeSvc
 * Pub/Sub with AWS Lambda function: 'PubSub_Pub-Sub-main'
     * (sends notification on discord server when player added to database)
+    * https://github.com/cjd2186/Pub-Sub
 * Infrastructure as a service: 'IaaS_terraform-main'
     * (automates deployment of microservices)
+    * https://github.com/harry881218/IaaS_terraform 
