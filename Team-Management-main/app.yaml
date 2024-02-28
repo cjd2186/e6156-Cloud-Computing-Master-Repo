@@ -1,0 +1,12 @@
+runtime: python311
+entrypoint: gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app
+
+  #env_variables:
+  #INSTANCE_UNIX_SOCKET: /cloudsql/team-mgmt-402907:us-east1:Team-Mgmt
+  #DB_USER: "doe2102"
+  #DB_PASS: "sql_for_mgmt"
+  #DB_NAME: "Managers"
+
+  #app:
+   # host: 127.0.0.1
+   # port: 8000
