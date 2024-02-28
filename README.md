@@ -1,5 +1,5 @@
 # e6156-Cloud-Computing-Master-Repo
-This is a repository that comprises of all micro-services and cloud technologies used for Columbia e6156 Cloud Computing Project.
+This is a repository that comprises of all micro-services and cloud technologies used for Columbia e6156 Cloud Computing Project. Code from existing repositories used for this project were collected and organized into this master repository.
 
 Project Overview:
 Our cloud-based application NFL FanZone is built and designed for NFL fans' casual interaction and NFL-related information lookup. It offers three features that will enhance fans’ NFL experience:
