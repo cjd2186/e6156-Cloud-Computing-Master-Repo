@@ -1,0 +1,30 @@
+Incoming Request - Method: GET, Path: /, Received at: 2023-12-22 12:40:55.694818
+Outgoing Response - Method: GET, Path: /, Status Code: 200, Sent at: 2023-12-22 12:40:55.696816
+Incoming Request - Method: GET, Path: /favicon.ico, Received at: 2023-12-22 12:40:56.217671
+Outgoing Response - Method: GET, Path: /favicon.ico, Status Code: 404, Sent at: 2023-12-22 12:40:56.226717
+Incoming Request - Method: GET, Path: /docs, Received at: 2023-12-22 12:41:01.585923
+Outgoing Response - Method: GET, Path: /docs, Status Code: 200, Sent at: 2023-12-22 12:41:01.585923
+Incoming Request - Method: GET, Path: /favicon.ico, Received at: 2023-12-22 12:41:01.758092
+Outgoing Response - Method: GET, Path: /favicon.ico, Status Code: 404, Sent at: 2023-12-22 12:41:01.759137
+Incoming Request - Method: GET, Path: /favicon.ico, Received at: 2023-12-22 12:41:27.613241
+Outgoing Response - Method: GET, Path: /favicon.ico, Status Code: 404, Sent at: 2023-12-22 12:41:27.614242
+Incoming Request - Method: GET, Path: /docs, Received at: 2023-12-22 12:41:32.258237
+Outgoing Response - Method: GET, Path: /docs, Status Code: 200, Sent at: 2023-12-22 12:41:32.259405
+Incoming Request - Method: GET, Path: /favicon.ico, Received at: 2023-12-22 12:41:32.420900
+Outgoing Response - Method: GET, Path: /favicon.ico, Status Code: 404, Sent at: 2023-12-22 12:41:32.421909
+Incoming Request - Method: GET, Path: /, Received at: 2023-12-22 12:41:51.307444
+Outgoing Response - Method: GET, Path: /, Status Code: 200, Sent at: 2023-12-22 12:41:51.308444
+Incoming Request - Method: GET, Path: /favicon.ico, Received at: 2023-12-22 12:41:51.781804
+Outgoing Response - Method: GET, Path: /favicon.ico, Status Code: 404, Sent at: 2023-12-22 12:41:51.782806
+Incoming Request - Method: GET, Path: /, Received at: 2023-12-22 12:44:27.170445
+Outgoing Response - Method: GET, Path: /, Status Code: 200, Sent at: 2023-12-22 12:44:27.172446
+Incoming Request - Method: GET, Path: /favicon.ico, Received at: 2023-12-22 12:44:27.705975
+Outgoing Response - Method: GET, Path: /favicon.ico, Status Code: 404, Sent at: 2023-12-22 12:44:27.707989
+Incoming Request - Method: GET, Path: /docs, Received at: 2023-12-22 12:44:31.485347
+Outgoing Response - Method: GET, Path: /docs, Status Code: 200, Sent at: 2023-12-22 12:44:31.486344
+Incoming Request - Method: GET, Path: /favicon.ico, Received at: 2023-12-22 12:44:31.650201
+Outgoing Response - Method: GET, Path: /favicon.ico, Status Code: 404, Sent at: 2023-12-22 12:44:31.650201
+Incoming Request - Method: GET, Path: /, Received at: 2023-12-22 12:45:57.230844
+Outgoing Response - Method: GET, Path: /, Status Code: 200, Sent at: 2023-12-22 12:45:57.232492
+Incoming Request - Method: GET, Path: /favicon.ico, Received at: 2023-12-22 12:45:57.809002
+Outgoing Response - Method: GET, Path: /favicon.ico, Status Code: 404, Sent at: 2023-12-22 12:45:57.813021
