@@ -26,7 +26,7 @@ player_resource = player.PlayerResource()
 db_config = {
     "host": "c6156-nfl-searching-query-microservice-db.ckoq7q2zprcp.us-east-2.rds.amazonaws.com",
     "user": "tw6156",
-    "password": "linguine_falafel_pita",
+    "password": "",
     "database": "dbNFLstat",
 }
 
